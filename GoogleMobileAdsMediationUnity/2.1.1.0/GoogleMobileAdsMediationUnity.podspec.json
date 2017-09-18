@@ -13,7 +13,7 @@
     "ios": "7.0"
   },
   "vendored_frameworks": [
-    "UnityAdapter-2.1.0.0/UnityAdapter.framework"
+    "UnityAdapter-2.1.1.0/UnityAdapter.framework"
   ],
   "dependencies": {
     "GoogleMobileAdsMediationUnityAdsSDK": "2.1.1",
