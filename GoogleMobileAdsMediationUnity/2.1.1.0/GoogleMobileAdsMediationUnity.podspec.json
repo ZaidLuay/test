@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "GoogleMobileAdsMediationUnityAdsSDK": "2.1.1",
-    "Google-Mobile-Ads-SDK": ">= 7.23.1"
+    "Google-Mobile-Ads-SDK": ">= 7.23.0"
   },
   "preserve_paths": [
     "UnityAdapter-2.1.1.0/README.md"
